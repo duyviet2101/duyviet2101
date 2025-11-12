@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyviet2101&label=Profile%20views&color=0e75b6&style=flat" alt="duyviet2101" /> </p>
 
-- 🌱 I’m currently learning **Backend Nodejs, Backend Java SpringBoot, Frontend,**
+- 🌱 I’m currently working as Software Engineer (Fullstack) at FPT Software.
 
 - 📫 How to reach me **whoisduyviet@gmail.com**
 
